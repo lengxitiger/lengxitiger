@@ -118,3 +118,8 @@
 <img src="https://img.shields.io/badge/-赛博方士-8A2BE2?style=for-the-badge">  
 <img src="https://img.shields.io/badge/-ERP老中医-FF0000?style=for-the-badge">  
 <img src="https://img.shields.io/badge/-多语言刺客-00FF00?style=for-the-badge">  
+
+🎯 人设标签：
+<img src="https://img.shields.io/badge/-学历过滤の漏网之鱼-FF0000?style=flat">
+<img src="https://img.shields.io/badge/-业务逻辑の人形编译器-00FF00?style=flat">
+<img src="https://img.shields.io/badge/-ERP界赤脚医生-8A2BE2?style=flat">
