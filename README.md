@@ -89,3 +89,17 @@
 3. **「防卷心法」**
   - 拒绝无效加班！代码效率来自「哈希验证防删体系」的严谨逻辑（减少返工=节省元气）；
   - 睡前必做「八段锦简化版」（重点拉伸肩背+搓热涌泉穴，助眠又养肾）。
+
+> **“17年ERP内功 + 多语言编程剑气 + 中医Debug大法 = 赛博修仙の究极体”**
+
+## 🌌 核心技能
+| **领域**       | **技能**                                                                 |
+|----------------|--------------------------------------------------------------------------|
+| ☯️ **ERP玄学**  | 用友NC/Oracle调优 · SQL Server祖传代码续命 · 企业级数据迁移              |
+| 💻 **赛博真经** | <img src="https://skillicons.dev/icons?i=python,go,java,spring,docker,kubernetes" /> |
+| 🧘 **程序员养生**| 针灸治颈椎 · 八段锦防猝死 · 枸杞咖啡 · 五行命名法                       |
+
+## 🎯 人设标签（随便戳）
+<img src="https://img.shields.io/badge/-赛博方士-8A2BE2?style=for-the-badge">  
+<img src="https://img.shields.io/badge/-ERP老中医-FF0000?style=for-the-badge">  
+<img src="https://img.shields.io/badge/-多语言刺客-00FF00?style=for-the-badge">  
