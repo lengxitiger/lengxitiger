@@ -37,6 +37,11 @@
 > **“别问我为什么懂——  
 > 我的代码里藏着流水线的机油味|货架味|财务室的咖啡香！”**
 
+🎯 人设标签：
+<img src="https://img.shields.io/badge/-学历过滤の漏网之鱼-FF0000?style=flat">
+<img src="https://img.shields.io/badge/-业务逻辑の人形编译器-00FF00?style=flat">
+<img src="https://img.shields.io/badge/-ERP界赤脚医生-8A2BE2?style=flat">
+
 ### 🛠️ 技术栈  
 **编程语言**: Python, JavaScript, Go, Java, C/C++  
 **云与运维**: Linux, Docker, Podman  
@@ -119,7 +124,3 @@
 <img src="https://img.shields.io/badge/-ERP老中医-FF0000?style=for-the-badge">  
 <img src="https://img.shields.io/badge/-多语言刺客-00FF00?style=for-the-badge">  
 
-🎯 人设标签：
-<img src="https://img.shields.io/badge/-学历过滤の漏网之鱼-FF0000?style=flat">
-<img src="https://img.shields.io/badge/-业务逻辑の人形编译器-00FF00?style=flat">
-<img src="https://img.shields.io/badge/-ERP界赤脚医生-8A2BE2?style=flat">
