@@ -1,6 +1,18 @@
 ## 🧑💻 作者背景
 [点击查看技能树图片](./erp_skill_tree.png) | [点击查看养生海报](./programmer_health_poster.png)
 
+<div align="center">  
+  <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=30&duration=4000&color=FFD700&center=true&vCenter=true&width=800&lines=𝙀𝙍𝙋+𝙑𝙚𝙩𝙚𝙧𝙖𝙣+𝙬𝙞𝙩𝙝+𝙏𝙖𝙤𝙞𝙨𝙩+𝙋𝙤𝙬𝙚𝙧" />  
+</div>  
+
+<p align="center">  
+  <img src="erp_skill_tree.png" width="400" />  
+  <img src="programmer_health_poster.png" width="400" />  
+</p>  
+
+> **“左手《Oracle性能优化》，右手《黄帝内经》，  
+> 在硅基和碳基之间反复横跳的赛博方士。”** 
+
 **初中学历非科班突围路线**  
 从生产线走向全栈开发的实战派，通过：
 - 10年ERP系统实施（服务100+客户，覆盖20+行业）
