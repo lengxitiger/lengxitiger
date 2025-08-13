@@ -3,9 +3,15 @@
 > 2. 准备好降压茶饮  
 > 3. 身边有可依靠的固体墙面"  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/预警.gif" width="300">
-</p>
+<div align="center">
+
+![静态警告](https://img.shields.io/badge/⚠️-中医Debug模式已激活-FF0000?style=for-the-badge)
+<br>
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png" width="50"> 
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d9.png" width="50">
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ea.png" width="50">
+
+</div>
 
 ## 🔧 关于这个"不守行规"的叛徒  
 > "流水线叛逃者 | 仓库老炮儿の代码代言人 | 财务部御用外挂  
@@ -16,9 +22,13 @@
 <img src="https://img.shields.io/badge/-仓库老炮儿の赛博化身-32CD32?style=for-the-badge&logo=tdengine">
 <img src="https://img.shields.io/badge/-财务小姐姐の外挂大脑-FF69B4?style=for-the-badge&logo=supabase">
 
-![危险等级](https://img.shields.io/badge/认知冲击波-Red-Alert-red?style=for-the-badge&logo=warning)
-![文化震荡](https://img.shields.io/badge/东西方文化碰撞-Critical-orange?style=for-the-badge)
-![养生必备](https://img.shields.io/badge/建议防护措施-枸杞茶+八段锦-brightgreen?style=for-the-badge)
+<div align="center">
+  
+![危险等级](https://img.shields.io/badge/‼️_认知冲击波-Red_Alert-FF0000?style=flat-square&logo=cloudflare)
+![文化震荡](https://img.shields.io/badge/🌏_东西方碰撞-Critical-FF8C00?style=flat-square)
+![防护措施](https://img.shields.io/badge/🛡️_防护装备-枸杞茶%2B八段锦-32CD32?style=flat-square)
+
+</div>
 
 ## 🤯 已观测到的副作用
 - 硅谷程序员开始研究《黄帝内经》与微服务的关系
