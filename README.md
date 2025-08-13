@@ -20,6 +20,8 @@
 
 [点击查看技能树图片](./erp_skill_tree.png) | [点击查看养生海报](./programmer_health_poster.png)
 
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=30&duration=4000&color=FF00FF&center=true&vCenter=true&width=800&lines=⚠️+警告：本README可能导致;CPU过载+文化冲击+职业怀疑;请备好枸杞茶谨慎阅读" /> </div>
+
 <div align="center">  
   <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=30&duration=4000&color=FFD700&center=true&vCenter=true&width=800&lines=𝙀𝙍𝙋+𝙑𝙚𝙩𝙚𝙧𝙖𝙣+𝙬𝙞𝙩𝙝+𝙏𝙖𝙤𝙞𝙨𝙩+𝙋𝙤𝙬𝙚𝙧" />  
 </div>  
