@@ -1,9 +1,18 @@
-🔥 【赛博车间主任の逆袭之路】
+## 🔧 关于这个"不守行规"的叛徒  
+> "流水线叛逃者 | 仓库老炮儿の代码代言人 | 财务部御用外挂  
+> 现在正试图用Python教会老师傅们什么叫做『数字化骂街』"
+
+🎯 人设暴击三连
+<img src="https://img.shields.io/badge/-流水线の哲学暴徒-FF8C00?style=for-the-badge&logo=assemblyscript">
+<img src="https://img.shields.io/badge/-仓库老炮儿の赛博化身-32CD32?style=for-the-badge&logo=tdengine">
+<img src="https://img.shields.io/badge/-财务小姐姐の外挂大脑-FF69B4?style=for-the-badge&logo=supabase">
+
+🔥 【赛博车间の三重幻影】
 
 🚀 我是谁？
-一个从流水线螺丝工→ERP老法师→全栈开发の跨界狂魔，擅长：
+流水线の螺丝暴徒 → ERP系统の老江湖 → 仓库老炮儿の代码代理人 → 现在专治各种不服的全栈狠人
 
-用 车间级业务理解 暴打学院派理论
+用 车间级仓库老炮儿业务理解 暴打学院派理论
 
 把 财务小姐姐的骂娘需求 变成优雅代码
 
