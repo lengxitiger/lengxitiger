@@ -7,9 +7,9 @@
 
 ![静态警告](https://img.shields.io/badge/⚠️-中医Debug模式已激活-FF0000?style=for-the-badge)
 <br>
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png" width="50"> 
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d9.png" width="50">
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ea.png" width="50">
+<img src="https://css.github.com/images/icons/emoji/unicode/26a0.png" width="50"> 
+<img src="https://css.github.com/images/icons/emoji/unicode/1f9d9.png" width="50">
+<img src="https://css.github.com/images/icons/emoji/unicode/1f9ea.png" width="50">
 
 </div>
 
@@ -60,7 +60,7 @@
 > **“左手《SQL性能优化》，右手《黄帝内经》，  
 > 在硅基和碳基之间反复横跳的赛博方士。”** 
 
-## 🤖 关于这个"不务正业"的赛博工人  
+## 🤖 "不务正业"的赛博工人  
 > "初中毕业→生产线→ERP实施→全栈开发→现在还想用AI重构祖传MES系统  
 > 这要么是励志故事，要么是职场恐怖片——取决于你是HR还是技术总监"
 
