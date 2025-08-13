@@ -1,4 +1,14 @@
-## 🧑💻 作者背景
+🔥 【赛博车间主任の逆袭之路】
+
+🚀 我是谁？
+一个从流水线螺丝工→ERP老法师→全栈开发の跨界狂魔，擅长：
+
+用 车间级业务理解 暴打学院派理论
+
+把 财务小姐姐的骂娘需求 变成优雅代码
+
+在 仓库老哥的脏话日志 里提炼真实业务逻辑
+
 [点击查看技能树图片](./erp_skill_tree.png) | [点击查看养生海报](./programmer_health_poster.png)
 
 <div align="center">  
@@ -12,6 +22,10 @@
 
 > **“左手《SQL性能优化》，右手《黄帝内经》，  
 > 在硅基和碳基之间反复横跳的赛博方士。”** 
+
+## 🤖 关于这个"不务正业"的赛博工人  
+> "初中毕业→生产线→ERP实施→全栈开发→现在还想用AI重构祖传MES系统  
+> 这要么是励志故事，要么是职场恐怖片——取决于你是HR还是技术总监"
 
 **初中学历非科班突围路线**  
 从生产线走向全栈开发的实战派，通过：
@@ -38,7 +52,7 @@
 > 我的代码里藏着流水线的机油味|货架味|财务室的咖啡香！”**
 
 🎯 人设标签：
-<img src="https://img.shields.io/badge/-学历过滤の漏网之鱼-FF0000?style=flat">
+<img src="https://img.shields.io/badge/-学历歧视の漏网之鱼-FF0000?style=flat">
 <img src="https://img.shields.io/badge/-业务逻辑の人形编译器-00FF00?style=flat">
 <img src="https://img.shields.io/badge/-ERP界赤脚医生-8A2BE2?style=flat">
 
