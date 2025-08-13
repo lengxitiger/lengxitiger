@@ -1,3 +1,12 @@
+> "阅读本README前，请确保：  
+> 1. 已备份原有世界观  
+> 2. 准备好降压茶饮  
+> 3. 身边有可依靠的固体墙面"  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/预警.gif" width="300">
+</p>
+
 ## 🔧 关于这个"不守行规"的叛徒  
 > "流水线叛逃者 | 仓库老炮儿の代码代言人 | 财务部御用外挂  
 > 现在正试图用Python教会老师傅们什么叫做『数字化骂街』"
@@ -6,6 +15,15 @@
 <img src="https://img.shields.io/badge/-流水线の哲学暴徒-FF8C00?style=for-the-badge&logo=assemblyscript">
 <img src="https://img.shields.io/badge/-仓库老炮儿の赛博化身-32CD32?style=for-the-badge&logo=tdengine">
 <img src="https://img.shields.io/badge/-财务小姐姐の外挂大脑-FF69B4?style=for-the-badge&logo=supabase">
+
+![危险等级](https://img.shields.io/badge/认知冲击波-Red-Alert-red?style=for-the-badge&logo=warning)
+![文化震荡](https://img.shields.io/badge/东西方文化碰撞-Critical-orange?style=for-the-badge)
+![养生必备](https://img.shields.io/badge/建议防护措施-枸杞茶+八段锦-brightgreen?style=for-the-badge)
+
+## 🤯 已观测到的副作用
+- 硅谷程序员开始研究《黄帝内经》与微服务的关系
+- 德国工程师试图将"仓库老炮儿"翻译成专业术语
+- 印度小哥在Stack Overflow提问针灸对代码性能的影响
 
 🔥 【赛博车间の三重幻影】
 
@@ -19,8 +37,6 @@
 在 仓库老哥的脏话日志 里提炼真实业务逻辑
 
 [点击查看技能树图片](./erp_skill_tree.png) | [点击查看养生海报](./programmer_health_poster.png)
-
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=30&duration=4000&color=FF00FF&center=true&vCenter=true&width=800&lines=⚠️+警告：本README可能导致;CPU过载+文化冲击+职业怀疑;请备好枸杞茶谨慎阅读" /> </div>
 
 <div align="center">  
   <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=30&duration=4000&color=FFD700&center=true&vCenter=true&width=800&lines=𝙀𝙍𝙋+𝙑𝙚𝙩𝙚𝙧𝙖𝙣+𝙬𝙞𝙩𝙝+𝙏𝙖𝙤𝙞𝙨𝙩+𝙋𝙤𝙬𝙚𝙧" />  
