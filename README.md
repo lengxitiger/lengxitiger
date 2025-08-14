@@ -6,10 +6,6 @@
 <div align="center">
 
 ![静态警告](https://img.shields.io/badge/⚠️-中医Debug模式已激活-FF0000?style=for-the-badge)
-<br>
-<img src="https://css.github.com/images/icons/emoji/unicode/26a0.png" width="50"> 
-<img src="https://css.github.com/images/icons/emoji/unicode/1f9d9.png" width="50">
-<img src="https://css.github.com/images/icons/emoji/unicode/1f9ea.png" width="50">
 
 </div>
 
