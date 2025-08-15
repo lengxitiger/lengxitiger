@@ -1,3 +1,25 @@
+> ✅ **记住**：上传文件时 **别用镜像域名**，用原始域名 `github.com`；上传完成后，**切回镜像域名** 继续享受加速服务。
+
+> ✅ **Remember**: When uploading files, **do not use the mirror domain**; use the original domain `github.com`. After uploading, **switch back to the mirror domain** to continue enjoying accelerated services.
+
+
+| 操作环节 | 使用域名 | 原因 |
+|---------|---------|------|
+| **文件上传 / 代码提交 / 推送更改** | **`github.com`（原始域名）** | **具备完整写入权限，确保操作成功** |
+| **代码浏览 / 下载 / 克隆（只读）** | `'kk'github.com`（镜像域名） 或 其他官方镜像 | **加速访问，提升下载速度** |
+| Operation | Domain to Use | Reason |
+|----------|--------------|--------|
+| **File Upload / Code Commit / Push Changes** | **`github.com` (Original Domain)** | **Has full write permissions to ensure successful operations** |
+| **Code Browsing / Download / Clone (Read-Only)** | `'kk'github.com` (Mirror Domain) or Other Official Mirrors | **Accelerates access and improves download speed** |
+
+### 🌐 镜像站黑魔法  
+- `github.com` 挂了？试试这些变体：  
+  - `'kk'github.com`（加单引号）  
+  - `kk-github.com`（加短横线）  
+  - `kk.github.com`（假装是子域名）  
+> *"When GFW sneezes, GitHub mirrors catch a cold."*
+
+
 > "阅读本README前，请确保：  
 > 1. 已备份原有世界观  
 > 2. 准备好降压茶饮  
